@@ -1,5 +1,5 @@
 import { ChangeDetectorRef, Component, ViewChild } from '@angular/core';
-import { FilteringExpressionsTree, FilteringLogic, IgxGridComponent, IgxSliderComponent, IgxStringFilteringOperand } from 'igniteui-angular';
+import { FilteringExpressionsTree, FilteringLogic, IgxGridComponent, IgxSliderComponent, IgxStringFilteringOperand } from '@infragistics/igniteui-angular';
 import * as Data from '../assets/data.json';
 import { IgxCategoryXAxisComponent, IgxDataChartComponent, IgxNumericYAxisComponent, IgxPointSeriesComponent, IgxScatterSeriesComponent, MarkerType } from 'igniteui-angular-charts';
 
